@@ -1,5 +1,7 @@
 # React Native using Expo and Typescript with Tailwind CSS
 
+<a href="https://www.buymeacoffee.com/jonngan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 This is a [React Native](https://facebook.github.io/react-native/) demo app using the [Expo framework](https://expo.io) and written in [TypeScript](http://www.typescriptlang.org). It uses the [managed workflow](https://docs.expo.io/introduction/managed-vs-bare/) and uses [Tailwind](https://github.com/jaredh159/tailwind-react-native-classnames) for some styling.
 
 [![CodeQL](https://github.com/jongan69/expo-typescript-tailwind-rn/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/jongan69/expo-typescript-tailwind-rn/actions/workflows/codeql-analysis.yml)
